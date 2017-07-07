@@ -1,6 +1,6 @@
 #Skyler Kuhn 
-#Project6: Android/iPhone Twitter code
-#For this project you will use twitter data to determine if two phone platforms have different "like" and "hate" ratings.  
+#Project: Android/iPhone Twitter code
+#Twitter data was used to determine if two phone platforms have different "like" and "hate" ratings.  
 #The first platform is "Android" and the other is "iPhone".  Complete the following tasks.
 
 #################################################################################
