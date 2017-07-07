@@ -1,5 +1,4 @@
-#Skyler Kuhn: STAT 321 Final Exam
-#Version: 1
+#Skyler Kuhn: Statistical Computing Quiz
 #12/7/2015
 
 IC1 <- read.csv( file.choose(), header = TRUE )
@@ -152,33 +151,5 @@ distance1average <- data1.sum / counterd
 print(distance1average)
 
 
-# for (i in 1:n1)
-# {
-#   for(j in IC2)
-#   {
-#     if(data1[i] == currentrow$Priority1)
-#     {
-#     data1.sum <- data1.sum + currentrow$Distance1
-#     print (data1.sum)
-#     }
-#   }
-# } 
-# print(data1.sum)
-# 
-# 
-# #starts at 1 
-# n2 <- dim(IC2)[1] #grabs the number of rows, used for looping
-# 
-# distance1list <- rep(0, n1) #Create a container to hold a new value
-# 
-# for(i in 1:n2)
-# {
-#   currentrow <- IC2[i, ] #[row,column], variable to hold the current row in the for loop iteration
-#   if (currentrow$Priority1 ==  Priority10)
-#   {
-#     distance1a <- distance1a + currentrow$Distance1
-#   }
-#   distance1list[i] <- distance1a
-# }
 
 
